@@ -1,2 +1,2 @@
 # VinuPay
-Refer to the [VinuPay Organization](https://github.com/vinupay)
+View the VinuPay repositories at [VinuPay Organization](https://github.com/vinupay)
